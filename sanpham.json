@@ -1,5 +1,4 @@
-{
-	"Product":[
+[
 		{"id":"SP001","name":"Bàn Phím Gaming K618 Super Pro New 2024 ","description":"Có 104 phím full size, Có đèn led  rực rỡ sang trọng nhiều chế độ đặc sắc","price":399000,"in_stock":111},
 		{"id":"SP002","name":"Bàn gaming học tập,bàn làm việc","description":"Mặt gỗ MDF dày 1,5cm phủ melamine chống xước chống ẩm","price":439000,"in_stock":135},
 		{"id":"SP003","name":"Áo Khoác Cardigan phong cách Hàn Quốc","description":"Áo Khoác Cardigan phong cách Hàn Quốc, chất dạ ép cao cấp 2 màu dễ mặc dễ phối đồ","price":89000,"in_stock":90},
@@ -30,5 +29,4 @@
 		{"id":"SP028","name":"Đồ trang trí Shin-chan Mặc Đồ Bơi Mini Dễ Thương","description":"Thời gian giao hàng dự kiến cho sản phẩm này là 7-9 ngày","price":10000,"in_stock":1752},
 		{"id":"SP029","name":"Đồ chơi thú nhồi bông hình cá vui nhộn cho mèo cưng","description":" Vải lông ngắn dày dặn và siêu mềm, in họa tiết có độ nét cao, nhồi cỏ bạc hà chất lượng cao, mùi thơm và lưu hương lâu.","price":15000,"in_stock":2175},
 		{"id":"SP030","name":"Bộ Bài UNO FLIP - Bài Uno mở rộng, luật chơi hấp dẫn","description":"Số lá bài: 110 lá","price":18000,"in_stock":283}
-	]
-}
+]
